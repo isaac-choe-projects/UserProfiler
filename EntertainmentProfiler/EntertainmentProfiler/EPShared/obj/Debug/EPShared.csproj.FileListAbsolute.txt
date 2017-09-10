@@ -1,0 +1,10 @@
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EPShared.dll.config
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EPShared.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EPShared.pdb
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EntityFramework.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EntityFramework.xml
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\obj\Debug\EPShared.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\obj\Debug\EPShared.pdb
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\EPShared\obj\Debug\EPShared.csprojResolveAssemblyReference.cache

@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewBag.Title = "Login Page";
+}
+
+
+<div class="row hidden-xs hidden-sm">
+    <center>
+        <!-- Large screens will be on the left -->
+        <div class="col-md-3 col-lg-3">
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <form action="/Login/AuthenticateUser" method="post" enctype="multipart/form-data">
+                        <div class="ep-font-one">
+                            User Name
+                        </div>
+                        <input type="text" name="passedInUserName" placeholder="Please enter your username..."><br>
+                        <div class="ep-font-one">
+                            Password
+                        </div>
+                        <input type="text" name="passedInPassword" placeholder="Please enter your password..."><br>
+                        <input type="submit" value="Sign In" style="width:30%; text-align:center">
+                    </form>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <div class="ep-font-one">
+                        Not a user? <a href="https://www.google.com">Register</a>
+                    </div>
+                </div>
+            </div>
+            @{
+                if (ViewBag.isAuthenticationCode == "AUTHENTICATION-FAILED")
+                {
+                    <div class="row">
+                        <div class="col-md-12 col-lg-12">
+                            <div class="ep-font-error" style="text-align:center">
+                                That username/password combination<br />was not found...
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="col-md-9 col-lg-9">
+            &nbsp;
+        </div>
+    </center>  
+</div>
+
+<div class="row hidden-md hidden-lg">
+    <center>
+        <!-- Mobile/small should be centered-->
+        <div class="col-xs-12 col-sm-12 ">
+            <center>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 ">
+                        <form action="/Login/AuthenticateUser" method="post" enctype="multipart/form-data">
+                            <div class="ep-font-one">
+                                User Name
+                            </div> 
+                            <input type="text" name="passedInUserName" placeholder="Please enter your username..."><br>
+                            <div class="ep-font-one">
+                                Password
+                            </div> 
+                             <input type="text" name="passedInPassword" placeholder="Please enter your password..."><br>
+                            <input type="submit" value="Sign In" style="width:30%">
+                        </form>                      
+                    </div>                    
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 ">
+                        <div class="ep-font-one">
+                            Not a user? <a href="https://www.google.com">Register</a>
+                        </div>                    
+                    </div>   
+                </div>
+                @{
+                    if (ViewBag.isAuthenticationCode == "AUTHENTICATION-FAILED")
+                    {
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 ">
+                                <div class="ep-font-error" style="text-align:center">
+                                    That username/password combination<br />was not found...
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </center>
+        </div> 
+    </center>
+</div>
+
+
+<script>
+    $('form').on('submit', function (e) {
+        showLoadingAnimation();
+    });
+</script>
+

@@ -1,0 +1,7 @@
+<LogEntry Date="2017-09-10 02:37:52" Severity="Error" Source="EPShared.Shared_Classes.CustomerInfo.GetAllUserDataOfSpecificProperty" ThreadId="7">
+  <Message>Schema specified is not valid. Errors: 
+The mapping of CLR type to EDM type is ambiguous because multiple CLR types match the EDM type 'User'. Previously found CLR type 'EPShared.User', newly found CLR type 'EPShared.DBContext.User'.</Message>
+</LogEntry>
+<LogEntry Date="2017-09-10 02:43:08" Severity="Error" Source="EPShared.Shared_Classes.CustomerInfo.GetAllUserDataOfSpecificProperty" ThreadId="9">
+  <Message>LINQ to Entities does not recognize the method 'System.Object GetValue(System.Object, System.Object[])' method, and this method cannot be translated into a store expression.</Message>
+</LogEntry>

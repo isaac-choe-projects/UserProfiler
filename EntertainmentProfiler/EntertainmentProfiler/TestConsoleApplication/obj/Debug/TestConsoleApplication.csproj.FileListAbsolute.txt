@@ -1,0 +1,12 @@
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EPShared.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EPShared.pdb
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac\Documents\Career\Personal Project\EntertainmentProfiler\EntertainmentProfiler\TestConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
